@@ -1,3 +1,3 @@
 # This Cow Does Not Exist Website
 
-A project for StyleGAN3 using cow as dataset
+A project serving StyleGAN3 using the cow as training dataset
