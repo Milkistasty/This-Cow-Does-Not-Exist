@@ -3,8 +3,8 @@
 A cow StyleGan3 project serving the StyleGan3 model on GitHub static website hosting
 
 Dataset:
-1. [Animals-10](https://www.kaggle.com/datasets/alessiocorrado99/animals10), CORRADO ALESSIO. Kaggle. 2020
-2. [Cow lumpy disease dataset](https://www.kaggle.com/datasets/shivamagarwal29/cow-lumpy-disease-dataset), SHIVAM AGARWAL. Kaggle. 2023
+1. [Animals-10](https://www.kaggle.com/datasets/alessiocorrado99/animals10), Corrado Alessio. Kaggle. 2020
+2. [Cow lumpy disease dataset](https://www.kaggle.com/datasets/shivamagarwal29/cow-lumpy-disease-dataset), Shivam Agarwal. Kaggle. 2023
 3. [Animal Faces-HQ v2 (AFHQv2)](https://github.com/clovaai/stargan-v2#animal-faces-hq-dataset-afhq), Yunjey et al. 2020
 
 References:
