@@ -5,18 +5,28 @@
     <title>CMPT743: Practices in visual computing 2, Spring 2024</title>
     <base href=".">
     <link rel="stylesheet" href="./src/bootstrap-4.0.0-beta.2.min.css">
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: black; /* Set the background color to black */
+        }
+        .img-fluid {
+            max-width: 80%;
+            height: auto;
+            border: 5px solid white; /* Optional: if you want a white border around the image */
+        }
+    </style>
     <link rel="stylesheet" href="./src/styles.css" type="text/css">
     <script src="./src/ded873da0c.js"></script>
 </head>
-<body data-new-gr-c-s-check-loaded="14.1076.0" data-gr-ext-installed="">
-    <!-- Your existing HTML code goes here -->
-    <div class="wrapper">
-        <!-- Content of your page -->
-    </div>
-    <!-- Add a container for the random cow image -->
-    <div class="container text-center mt-4">
+<body>
+    <!-- Container for the random cow image -->
+    <div>
         <img id="randomCowImage" src="" alt="Random Cow" class="img-fluid">
-        <p>Refresh the page for a new cow image.</p>
     </div>
     <script src="./src/jquery-3.1.1.slim.min.js"></script>
     <script src="./src/bootstrap-4.0.0-beta.2.bundle.min.js"></script>
