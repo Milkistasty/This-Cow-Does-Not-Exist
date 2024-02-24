@@ -16,7 +16,7 @@ A cow StyleGan3 project serving the StyleGan3 model on GitHub static website hos
 6. [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498), Salimans et al. 2016
 7. [StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://github.com/clovaai/stargan-v2#animal-faces-hq-dataset-afhq), Yunjey et al. 2020
 
-## Model Code License
+## Model Code(https://github.com/NVlabs/stylegan3?tab=readme-ov-file) License
 
 Copyright &copy; 2021, NVIDIA Corporation & affiliates. All rights reserved.
 
