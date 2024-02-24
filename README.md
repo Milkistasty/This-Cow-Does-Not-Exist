@@ -14,6 +14,7 @@ A cow StyleGan3 project serving the StyleGan3 model on GitHub static website hos
 4. [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948), Karras et al. 2018
 5. [Alias-Free Generative Adversarial Networks](https://nvlabs.github.io/stylegan3), Karras et al. 2021
 6. [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498), Salimans et al. 2016
+7. [StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://github.com/clovaai/stargan-v2#animal-faces-hq-dataset-afhq), Yunjey et al. 2020
 
 ## Model Code License
 
