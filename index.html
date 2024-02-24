@@ -25,7 +25,7 @@
             const imageCount = 100; // Total number of images available
             const randomSeed = Math.floor(Math.random() * imageCount) + 1; // Generate a random seed between 1 and 100
             const imageName = `seed${String(randomSeed).padStart(4, '0')}`; // Generate image name with leading zeros
-            const imagePath = `./data/${imageName}.jpg`; // Construct the path to the image
+            const imagePath = `./data/${imageName}.png`; // Construct the path to the image
             document.getElementById('randomCowImage').src = imagePath; // Set the image source to the randomly selected image
         }
 
