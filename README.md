@@ -1,8 +1,15 @@
-# This Cow Does Not Exist Website
+# This Cow Does Not Exist
+
+[Check out my project here!](https://milkistasty.github.io/This-Cow-Does-Not-Exist/index.html)
 
 A cow StyleGan3 project serving the StyleGan3 model on GitHub static website hosting
 
-## Dataset:
+This project generates random images of cows using the StyleGan3 model.
+
+## How to Use
+Entering the website or refreshing the page, will get you a new cow generated from the model
+
+## Training Dataset:
 1. [Animals-10](https://www.kaggle.com/datasets/alessiocorrado99/animals10), Corrado Alessio. Kaggle. 2020
 2. [Cow lumpy disease dataset](https://www.kaggle.com/datasets/shivamagarwal29/cow-lumpy-disease-dataset), Shivam Agarwal. Kaggle. 2023
 3. [Animal Faces-HQ v2 (AFHQv2)](https://github.com/clovaai/stargan-v2#animal-faces-hq-dataset-afhq), Yunjey et al. 2020
